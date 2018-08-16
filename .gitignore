@@ -3,7 +3,7 @@ Thumbs.db
 .gradle
 build/
 classes/
-.idea
+.idea/
 *.iml
 *.ipr
 *.iws
@@ -18,6 +18,14 @@ gradle
 /gradlew
 gradlew*
 .metadata/
+node_modules/
+npm-debug.log
 .editorconfig
 dist/
 public/
+
+.gitignore
+.idea/workspace.xml
+decoration/src/
+observer/src/
+strategy-pattern/src/

@@ -1,0 +1,6 @@
+rootProject.name = 'Design-Pattern'
+//include 'strategy-pattern'
+include 'strategy-pattern'
+include 'observer'
+include 'decoration'
+
