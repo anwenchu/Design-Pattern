@@ -18,8 +18,6 @@ gradle
 /gradlew
 gradlew*
 .metadata/
-node_modules/
-npm-debug.log
 .editorconfig
 dist/
 public/
